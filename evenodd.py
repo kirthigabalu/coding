@@ -6,3 +6,4 @@ else:
       print("Even")
    else:
       print("Odd")
+      
