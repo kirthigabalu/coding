@@ -5,3 +5,4 @@ elif x>0:
    print("Positive")
 else:
    print("Zero")
+pos neg or zero
