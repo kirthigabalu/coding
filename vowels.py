@@ -1,0 +1,10 @@
+x=input()
+if x>="a" and x<="z" or x>="A" and x<="Z":
+    if x=="a" or x=="e" or x=="i" or x=="o" or x=="u":
+       print("Vowels")
+    elif x=="A" or x=="E" or x=="I" or x=="O" or x=="U":
+       print("Vowels")
+    else:
+       print("Constant")
+else:
+    print("Invalid")
