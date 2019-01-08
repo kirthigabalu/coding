@@ -5,6 +5,6 @@ if x>="a" and x<="z" or x>="A" and x<="Z":
     elif x=="A" or x=="E" or x=="I" or x=="O" or x=="U":
        print("Vowels")
     else:
-       print("Constant")
+       print("Consonant")
 else:
     print("Invalid")
