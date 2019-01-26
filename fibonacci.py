@@ -1,6 +1,6 @@
 n=int(input())
 l=[]
-i=0
+i=1
 frst=0
 sec=1
 while i<n:
@@ -12,6 +12,7 @@ while i<n:
         sec=next
     l.append(next)
     i=i+1
+l.append(n)
 for j in range(len(l)-1):
     print(l[j],end=" ")
 print(l[-1])
