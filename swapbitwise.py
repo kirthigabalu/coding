@@ -1,5 +1,5 @@
-x,y=map(int,input().split())
-x=x^y
-y=x^y
-x=x^y
-print(x,y)
+a,b=map(int,input().split())
+a=a^b
+b=a^b
+a=a^b
+print(a,b)
