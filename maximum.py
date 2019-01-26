@@ -1,3 +1,3 @@
 x=int(input())
-a=[1,2,3,4,5]
-print(max(a))
+l=[int(a) for a in input().split()]
+print(max(l))
