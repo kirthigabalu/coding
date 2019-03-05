@@ -1,3 +1,4 @@
+#printind str
 s,k=map(str,input().split())
 n=int(k)
 while n:
