@@ -1,7 +1,7 @@
 #roundoff in decimal
 n=float(input())
-n1=int(n)
-s=n1+1
+p=int(n)
+s=p+1
 print(s)
 75
 s=input()
